@@ -1,0 +1,7 @@
+*.OBJ
+*.__i
+*.LST
+*.hex
+*.plg
+*.Bak
+*.M51
